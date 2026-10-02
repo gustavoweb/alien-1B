@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+body {
+  background: #b3ffa7;
+}
+button {
+  width: 120px;
+  height: 7vh;
+  border: 1px solid #810ece;
+  border-radius: 12px;
+  color: #810ece;
+  font-weight: bold;
+  background-image: url('../img/contato.png');
+  background-size: 18%;
+  background-repeat: no-repeat;
+  background-position-x: 5%;
+  background-position-y: 70%;
+  background-color: #fde2ff;
+  cursor: pointer;
+}
+a{
+  color: #810ece;
+  font-weight: bold;
+}
+a:hover{
+  color: #0b4f0a;
+}
